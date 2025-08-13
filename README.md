@@ -4,7 +4,7 @@
 ## Methodology
 
 1. **Data Collection**  
-   - On-chain sentiment metrics for Solana from [data source(s)].
+   - On-chain sentiment metrics for Solana from helius.
    - Market indicators: price, volume, volatility, moving averages.
 
 2. **Feature Engineering**  
