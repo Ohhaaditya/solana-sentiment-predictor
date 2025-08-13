@@ -33,11 +33,3 @@
 **Key Finding:**  
 Tree-based models (Random Forest, XGBoost) significantly outperform linear models, suggesting the price-sentiment relationship is non-linear.
 
----
-
-## Installation
-Clone the repository and install dependencies:
-```bash
-git clone https://github.com/yourusername/solana-sentiment-predictor.git
-cd solana-sentiment-predictor
-pip install -r requirements.txt
